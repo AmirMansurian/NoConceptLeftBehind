@@ -1,5 +1,7 @@
 # No Concept Left Behind
-The source code of [No Concept Left Behind: Test-Time Optimization for Compositional Text-to-Image Generation]().
+[![arXiv](https://img.shields.io/badge/arXiv-2509.23457-<COLOR>.svg)](https://arxiv.org/abs/2509.23457)
+
+The source code of [No Concept Left Behind: Test-Time Optimization for Compositional Text-to-Image Generation](https://arxiv.org/abs/2509.23457).
  
 
 <p align="center">
@@ -50,7 +52,12 @@ Qalitative result samples:
  ## Citation
 If you use this repository for your research or wish to refer to our method, please use the following BibTeX entry:
 ```bibtex
-
+@article{sameti2025conceptleftbehind,
+      title={No Concept Left Behind: Test-Time Optimization for Compositional Text-to-Image Generation}, 
+      author={Mohammad Hossein Sameti and Amir M. Mansourian and Arash Marioriyad and Soheil Fadaee Oshyani and Mohammad Hossein Rohban and Mahdieh Soleymani Baghshah},
+      journal={arXiv preprint arXiv:2509.23457},
+      year={2025}  
+}
 ```
 
 ### Acknowledgement
